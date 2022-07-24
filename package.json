@@ -4,9 +4,8 @@
   "version": "0.0.0",
   "packageManager": "pnpm@7.2.1",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Janjun Yu <mryujianjun.cn@gmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antjianjunyuufu",
   "homepage": "https://github.com/jianjunyuu/pkg-name#readme",
   "repository": {
     "type": "git",
